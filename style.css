@@ -1,0 +1,38 @@
+html {
+  background-image: url(background-image.png);
+  height: 100vh;
+  background-size: cover;
+}
+.logo {
+  float: left;
+  margin-right: 50px;
+  position: relative;
+}
+
+table {
+  height: auto;
+  margin-top: 30px;
+  width: 100%;
+}
+td,
+th {
+  width: 50%;
+  vertical-align: top;
+}
+.table1div td,
+.table1div th {
+  width: 50%;
+  text-align: center;
+}
+.buttondiv {
+  width: 100%;
+}
+button {
+  padding: 15px;
+  background-color: red;
+  border: none;
+  border-radius: 3px;
+  text-align: center;
+  margin: 0 47%;
+  width: 120px;
+}
